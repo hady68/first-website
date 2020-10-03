@@ -28,6 +28,9 @@ hr{
 	font-weight: 700;
 	border-radius: 300px;
 }
+.row{
+	margin: auto;
+}
 
 
 
@@ -46,3 +49,4 @@ hr{
 .btn-xl{
 	padding: 1rem 2rem;
 }
+
